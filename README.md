@@ -1,1 +1,1 @@
-# React-Combine-Multiple-Reducers-readme.md
+# React-Combine-Multiple-Reducers
